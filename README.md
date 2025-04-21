@@ -72,6 +72,8 @@ Explore my hands-on labs and earned badges on Google Cloud Skills Boost 🚀
 
 </div>
 
+![Metrics](https://github.com/anjalisah89/anjalisah89/blob/main/github-metrics.svg)
+
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=anjalisah89&style=flat-square&color=blue)
