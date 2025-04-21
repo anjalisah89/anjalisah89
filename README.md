@@ -64,15 +64,13 @@ Explore my hands-on labs and earned badges on Google Cloud Skills Boost 🚀
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=transparent&hide_border=true)](https://github.com/anjalisah89/github-readme-stats)
 &nbsp;
-[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anjalisah89)
+[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/anjalisah89)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anjalisah89&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-![Metrics](https://github.com/anjalisah89/anjalisah89/blob/main/github-metrics.svg)
 
 ---
 
