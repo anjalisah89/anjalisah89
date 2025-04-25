@@ -62,13 +62,25 @@ Explore my cloud milestones and achievements 🚀
 
 <div align="center">
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=transparent&hide_border=true)](https://github.com/anjalisah89/github-readme-stats)
+<div align="center">
+
+<a href="https://github.com/anjalisah89/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=vue&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
+  </picture>
+</a>
 &nbsp;
-[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats)](https://github.com/anjalisah89)
-
+<a href="https://github.com/anjalisah89">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Anjali's GitHub stats">
+  </picture>
+</a>
 <br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anjalisah89&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjalisah89&theme=microsoft&hide_border=true&bg_color=00000000)](https://git.io/streak-stats)
 
 </div>
 
