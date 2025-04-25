@@ -50,11 +50,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai)
 
-### ☁️ Google Cloud Skills Boost
+### Google Cloud Skills Boost 🏆
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-View%20My%20Profile-blue?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/fe8f9ff0-8907-4a74-b475-6c41e2e13ff1)
 
-Explore my hands-on labs and earned badges on Google Cloud Skills Boost 🚀
+Explore my cloud milestones and achievements 🚀
 
 ---
 
@@ -64,7 +64,7 @@ Explore my hands-on labs and earned badges on Google Cloud Skills Boost 🚀
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=transparent&hide_border=true)](https://github.com/anjalisah89/github-readme-stats)
 &nbsp;
-[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github)](https://github.com/anjalisah89)
+[![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats)](https://github.com/anjalisah89)
 
 <br/>
 
@@ -74,4 +74,4 @@ Explore my hands-on labs and earned badges on Google Cloud Skills Boost 🚀
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=anjalisah89&style=flat-square&color=blue)
+<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=anjalisah89&style=flat-square&color=blue) -->
