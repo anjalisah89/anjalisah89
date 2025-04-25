@@ -74,13 +74,13 @@ Explore my cloud milestones and achievements 🚀
 &nbsp;
 <a href="https://github.com/anjalisah89">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true&rank_icon=github&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&rank_icon=github">
     <img src="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Anjali's GitHub stats">
   </picture>
 </a>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anjalisah89&theme=microsoft&hide_border=true&bg_color=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjalisah89&theme=microsoft&hide_border=true&bg_color=00000000)](https://github.com/anjalisah89)
 
 </div>
 
