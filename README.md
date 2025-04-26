@@ -64,7 +64,7 @@ Explore my cloud milestones and achievements 🚀
 
 <a href="https://github.com/anjalisah89">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=vue&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisah89&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
   </picture>
@@ -73,7 +73,7 @@ Explore my cloud milestones and achievements 🚀
 <a href="https://github.com/anjalisah89">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&rank_icon=github&custom_title=Anjali%27s%20GitHub%20stats">
     <img src="https://github-readme-stats.vercel.app/api?username=anjalisah89&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Anjali's GitHub stats">
   </picture>
 </a>
